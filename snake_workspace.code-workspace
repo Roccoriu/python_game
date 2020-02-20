@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": "snake\\Scripts\\python.exe"
+		"python.pythonPath": "snake/Scripts/activate"
 	}
 }
