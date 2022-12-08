@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 blinker==1.4
 bzr==2.8.0.dev1
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 configobj==5.0.6
 configparser==3.5.0b2
